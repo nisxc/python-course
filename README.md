@@ -1,1 +1,1 @@
-# python-course
+# HW_1
