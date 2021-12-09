@@ -1,0 +1,12 @@
+INFO:__main__:Hello
+DEBUG:__main__:Hello
+INFO:__main__:Hello
+DEBUG:__main__:Hello
+INFO:__main__:Hello
+DEBUG:__main__:Hello
+INFO:__main__:Hello
+DEBUG:__main__:Hello
+INFO:__main__:Hello
+DEBUG:__main__:Hello
+__main__: INFO: 2021-12-09 09:36:25,794: Hello
+__main__: DEBUG: 2021-12-09 09:36:25,797: Hello
